@@ -1,0 +1,6 @@
+# LabVIEW project metadata
+*.aliases
+*.lvlps
+
+# LabVIEW builds directory
+builds/

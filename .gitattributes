@@ -1,0 +1,29 @@
+# Treat the following files as binary.
+# This causes Git to not perform text-based transformations to these binary files.
+
+# LabVIEW libraries
+*.lvclass binary
+*.lvlib binary
+*.lvlibp binary
+*.llb binary
+
+# LabVIEW files
+*.vi binary
+*.vit binary
+*.vim binary
+*.ctl binary
+*.xctl binary
+*.xcontrol binary
+*.rtm binary
+*.ico binary
+
+# JKI VIPM files
+*.vipb binary # JKI VIPM build file
+*.vipc binary # JKI VPIM configuration file
+
+# Other
+*.rtm binary  # Run-time menu file
+*.png binary
+*.ico binary
+*.pdf binary
+*.dll binary
