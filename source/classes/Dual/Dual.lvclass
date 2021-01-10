@@ -107,7 +107,45 @@
 		</Item>
 	</Item>
 	<Item Name="function primitives" Type="Folder">
-		<Item Name="basic" Type="Folder">
+		<Item Name="exponential" Type="Folder">
+			<Item Name="Exponential.vim" Type="VI" URL="../Exponential.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
+			</Item>
+			<Item Name="Natural Logarithm.vim" Type="VI" URL="../Natural Logarithm.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
+			</Item>
+			<Item Name="Power of 2.vim" Type="VI" URL="../Power of 2.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
+			</Item>
+			<Item Name="Power of 10.vim" Type="VI" URL="../Power of 10.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
+			</Item>
+		</Item>
+		<Item Name="numeric" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Add.vim" Type="VI" URL="../Add.vim">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%\!!!!"1!%!!!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!$Z!=!!?!!!O(U&amp;V&gt;'^N982J9S"%;7:G:8*F&lt;H2J982J&lt;WYO&lt;(:M;7)-2(6B&lt;#ZM&gt;G.M98.T!!!&amp;?#!L)(E!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Z!(U!]!!1!!!!!!!!!!!!!!!"!!!!!!!#!!-!!!!!!!!!!!!!!!!#!!%)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!!!!!!!!!!!!!U&amp;!!!1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!2!!!!!!!!!!!'!!!!!!!!!!!!!1!%!!!!!!</Property>
@@ -209,45 +247,70 @@
 				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
 			</Item>
 		</Item>
-		<Item Name="exponential" Type="Folder">
-			<Item Name="Exponential.vim" Type="VI" URL="../Exponential.vim">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
-			</Item>
-			<Item Name="Natural Logarithm.vim" Type="VI" URL="../Natural Logarithm.vim">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
-			</Item>
-			<Item Name="Power of 2.vim" Type="VI" URL="../Power of 2.vim">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
-			</Item>
-			<Item Name="Power of 10.vim" Type="VI" URL="../Power of 10.vim">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G6Y=#BY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
-			</Item>
-		</Item>
 		<Item Name="trigonometric" Type="Folder">
+			<Item Name="Arccosecant.vim" Type="VI" URL="../Arccosecant.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Arccosine.vim" Type="VI" URL="../Arccosine.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Arccotangent.vim" Type="VI" URL="../Arccotangent.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Arcsecant.vim" Type="VI" URL="../Arcsecant.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Arcsine.vim" Type="VI" URL="../Arcsine.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
+			</Item>
+			<Item Name="Arctangent.vim" Type="VI" URL="../Arctangent.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Cosecant.vim" Type="VI" URL="../Cosecant.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
 			<Item Name="Cosine.vim" Type="VI" URL="../Cosine.vim">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G.P=SBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -257,6 +320,33 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
 			</Item>
+			<Item Name="Cotangent.vim" Type="VI" URL="../Cotangent.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Secant.vim" Type="VI" URL="../Secant.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
+			<Item Name="Sine and Cosine.vim" Type="VI" URL="../Sine and Cosine.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$X!!!!"1"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G.P=SBY+1!!1%"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!:T;7YI?#E!!!1!!!![1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!8A!-1$Q!!5!!!!"!!)!!Q!#!A!!/!!!$1-!!!E!!!!!!!!!%A!!!!!!!!=%!!1!!!!!!!%!"!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">34078720</Property>
+			</Item>
 			<Item Name="Sine.vim" Type="VI" URL="../Sine.vim">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H.J&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -264,7 +354,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
 			</Item>
 			<Item Name="Tangent.vim" Type="VI" URL="../Tangent.vim">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
@@ -277,94 +367,13 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Arccosecant.vim" Type="VI" URL="../Arccosecant.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+	<Item Name="Absolute Value.vim" Type="VI" URL="../Absolute Value.vim">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#:!!!!!Q!]1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!XB?-A![1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!8A!'Q$Q!!)!!!!"!A!!#!!!$1%!!")!!!-#!!!!!1!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Arccosine.vim" Type="VI" URL="../Arccosine.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Arccotangent.vim" Type="VI" URL="../Arccotangent.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Arcsecant.vim" Type="VI" URL="../Arcsecant.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Arcsine.vim" Type="VI" URL="../Arcsine.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
-	</Item>
-	<Item Name="Arctangent.vim" Type="VI" URL="../Arctangent.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Cosecant.vim" Type="VI" URL="../Cosecant.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Cotangent.vim" Type="VI" URL="../Cotangent.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Secant.vim" Type="VI" URL="../Secant.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H2B&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
-	</Item>
-	<Item Name="Sine and Cosine.vim" Type="VI" URL="../Sine and Cosine.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$W!!!!"1"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G.P=SBY+1!!1%"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!:T;7YI?#E!!!1!!!![1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!8A!-!$Q!!5!!!!"!!)!!Q!#!A!!/!!!#1!!!!U$!!!!!!!!%A!!!!!!!!9!"!!!!!!!!1!%!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1090519040</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">34078720</Property>
 	</Item>
 </LVClass>
