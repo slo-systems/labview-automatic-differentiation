@@ -246,6 +246,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
 			</Item>
+			<Item Name="Absolute Value.vim" Type="VI" URL="../Absolute Value.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#:!!!!!Q!]1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!XRY@!![1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!8A!'Q$Q!!)!!!!"!A!!#!!!$1%!!")!!!-#!!!!!1!#!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
+			</Item>
 		</Item>
 		<Item Name="trigonometric" Type="Folder">
 			<Item Name="Arccosecant.vim" Type="VI" URL="../Arccosecant.vim">
@@ -338,6 +347,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
 			</Item>
+			<Item Name="Sinc.vim" Type="VI" URL="../Sinc.vim">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;!!!!!Q"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"H.J&lt;CBY+1!!/E"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!&amp;Y!"M!]!!#!!!!!1)!!!A!!!U"!!!3!!!$!A!!!!%!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
+			</Item>
 			<Item Name="Sine and Cosine.vim" Type="VI" URL="../Sine and Cosine.vim">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$X!!!!"1"!1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!"G.P=SBY+1!!1%"Q!"Y!!#Y@186U&lt;WVB&gt;'FD)%2J:G:F=G6O&gt;'FB&gt;'FP&lt;CZM&gt;GRJ9AR%&gt;7&amp;M,GRW9WRB=X-!!!:T;7YI?#E!!!1!!!![1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!8A!-1$Q!!5!!!!"!!)!!Q!#!A!!/!!!$1-!!!E!!!!!!!!!%A!!!!!!!!=%!!1!!!!!!!%!"!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -366,14 +384,5 @@
 				<Property Name="NI.ClassItem.State" Type="Int">8396804</Property>
 			</Item>
 		</Item>
-	</Item>
-	<Item Name="Absolute Value.vim" Type="VI" URL="../Absolute Value.vim">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#:!!!!!Q!]1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!XB?-A![1(!!(A!!,B^"&gt;82P&lt;7&amp;U;7-A2'FG:G6S:7ZU;7&amp;U;7^O,GRW&lt;'FC$%2V97QO&lt;(:D&lt;'&amp;T=Q!!!8A!'Q$Q!!)!!!!"!A!!#!!!$1%!!")!!!-#!!!!!1!#!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">798720</Property>
 	</Item>
 </LVClass>
