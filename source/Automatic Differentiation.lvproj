@@ -20,6 +20,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="VIPM" Type="Folder">
+			<Item Name="Automatic Differentiation.vipb" Type="Document" URL="../Automatic Differentiation.vipb"/>
+			<Item Name="Automatic Differentiation.vipc" Type="Document" URL="../Automatic Differentiation.vipc"/>
+		</Item>
 		<Item Name="Automatic Differentiation.lvlib" Type="Library" URL="../libraries/Automatic Differentiation/Automatic Differentiation.lvlib"/>
 		<Item Name="Examples.lvlib" Type="Library" URL="../libraries/Examples/Examples.lvlib"/>
 		<Item Name="Tests.lvlib" Type="Library" URL="../libraries/Tests/Tests.lvlib"/>
